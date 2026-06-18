@@ -4,7 +4,7 @@ A pixel-faithful, fully responsive recreation of the RemoteRecruit "Features" ho
 provided Figma file, built as a real React application.
 
 **Live demo:** https://remoterecruit.netlify.app/
-**Repo:** _add your GitHub URL here after pushing_
+**Repo:** https://github.com/Ahnaf101001/remoterecruit/tree/main
 
 ## Tech stack
 
