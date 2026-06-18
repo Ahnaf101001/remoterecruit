@@ -3,7 +3,7 @@
 A pixel-faithful, fully responsive recreation of the RemoteRecruit "Features" home page from the
 provided Figma file, built as a real React application.
 
-**Live demo:** _add your deployed URL here after deploying_
+**Live demo:** https://remoterecruit.netlify.app/
 **Repo:** _add your GitHub URL here after pushing_
 
 ## Tech stack
